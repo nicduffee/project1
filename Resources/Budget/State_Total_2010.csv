@@ -1,4 +1,4 @@
-County/ Congressional District,Veteran Population*,Total Expenditure, Compensation & Pension ,Construction, Education & Vocational Rehabilitation/ Employment , Loan Guaranty# , General Operating Expenses , Insurance & Indemnities , Medical Care ,Unique Patients **
+State,Veteran Population*,Total Expenditure,Compensation & Pension,Construction,Education & Vocational Rehabilitation/ Employment,Loan Guaranty#,General Operating Expenses,Insurance & Indemnities,Medical Care,Unique Patients **
 Alabama,405624,2171215,1181450,15927,130271,,36119,27450,779999,101842
 Alaska,77025,359342,167394,13678,35065,,6550,3183,133472,15324
 Arizona                                                                                                                        ,556729,2397241,1054437,7957,229540,,98142,36992,970173,125972
@@ -51,4 +51,4 @@ West Virginia                                                                   
 Wisconsin                                                                                                                     ,417654,1876977,808775,30910,105741,,57209,33791,840550,112788
 Wyoming                                                                                                                        ,55850,262678,102431,635,12106,,3144,2701,141661,17855
 Puerto Rico                                                                                                                   ,112699,1107564,543031,19786,30360,,23685,3266,487436,58349
-Guam,8144,40177,29232,,4230, , ,943,5773,
+Guam,8144,40177,29232,,4230,,,943,5773,
