@@ -3,3 +3,6 @@ San Diego is known as a military town. It is home to large bases across the Navy
 
 All Department of Veterans Affairs data has been sourced from data.gov. All budget numbers are in the thousands ($000’s). Veteran population numbers within the datasets are from the VA's own VetPop estimation model.
 
+## Sources
+
+`county_fips_master.csv` sourced from Kieran Healy at https://github.com/kjhealy/fips-codes (has been edited to include Puerto Rico)
